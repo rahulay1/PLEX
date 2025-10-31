@@ -144,7 +144,7 @@ If you use this repo, please cite:
   [https://huggingface.co/cirimus/modernbert-base-go-emotions](https://huggingface.co/cirimus/modernbert-base-go-emotions)
 
 * **PLEX (this work):**
-  *[Add your paper citation / arXiv link here]*
+  https://arxiv.org/pdf/2507.10596?
 
 ---
 
